@@ -1,0 +1,4 @@
+name: TimeBasedEventsPlugin
+version: '${project.version}'
+main: man.burr.timebasedeventsplugin.TimeBasedEventsPlugin
+api-version: '1.20'
